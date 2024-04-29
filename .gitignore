@@ -1,0 +1,3 @@
+*.X/build/*
+*.X/dist/*
+*.bak

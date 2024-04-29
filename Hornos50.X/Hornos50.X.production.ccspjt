@@ -1,0 +1,15 @@
+[PROJECT]
+Target=dist\default\production\Hornos50.X.production.hex
+Processor_Text=PIC16F886
+CCSVersion=5.093
+Compiler=PCM
+[Target Data]
+FileList=$linker.c
+[dist\default\production\Hornos50.X.production.c]
+Type=4
+[mru-list]
+1=dist\default\production\Hornos50.X.production.c
+[Units]
+Count=1
+1=..\src\Hornos-50
+Link=1
