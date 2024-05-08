@@ -77,8 +77,12 @@
         <makeCustomizationNormalizeHexFile>false</makeCustomizationNormalizeHexFile>
       </makeCustomizationType>
       <item path="../src/Modbus.c" ex="true" overriding="false">
+        <ccscompiler>
+        </ccscompiler>
       </item>
       <item path="../src/Modbus.h" ex="true" overriding="false">
+        <ccscompiler>
+        </ccscompiler>
       </item>
       <ccscompiler>
         <property key="cc-compat" value="0"/>

@@ -1,3 +1,6 @@
-*.X/build/*
-*.X/dist/*
+*.X/**/*
+!*.X/nbproject/configurations.xml
+!*.X/nbproject/project.xml
+!*.X/nbproject/project.properties
+!*.X/Makefile
 *.bak
